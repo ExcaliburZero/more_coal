@@ -1,10 +1,13 @@
-"More Coal" (more_coal)
+# More Coal (more_coal)
 
-	Author: mtmodder148
+## Author
+- mtmodder148
 
-	License: WTFPL
+## License
+- WTFPL
 
-	Dependencies: default (Comes with minetest_game)
+## Dependencies
+- default (Comes with minetest_game)
 
-	Adds:
- - A recipe to cook any tree into a coal lump.
+## Adds
+- A recipe to cook any tree into a coal lump.
